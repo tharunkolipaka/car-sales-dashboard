@@ -1,5 +1,7 @@
 # 🚗 Car Sales Dashboard (Tableau Project)
 
+![Car Sales Dashboard](dashboard.png)
+
 ## 📌 Overview
 This project is an interactive **Car Sales Dashboard** built using Tableau.  
 It helps analyze sales performance, trends, and key business insights in a simple and visual way.
@@ -26,7 +28,9 @@ The main goal of this project is to track and visualize important metrics like:
 - 📈 Weekly sales trend analysis  
 - 🚘 Sales distribution by body style and color  
 - 🌍 Regional sales comparison  
-- 🏢 Company-wise sales performance  
+- 🏢 Company-wise sales performance
+- 📈 Sales increased by 23.59% YoY showing strong growth
+- 🚘 SUV category generated highest revenue
 
 ---
 
@@ -35,11 +39,6 @@ The main goal of this project is to track and visualize important metrics like:
 - Dataset (Excel file)  
 - Dashboard Screenshot  
 - Problem Statement Document  
-
----
-
-## 📸 Dashboard Preview
-(Add your dashboard screenshot here after uploading to GitHub)
 
 ---
 
@@ -54,6 +53,9 @@ The main goal of this project is to track and visualize important metrics like:
 **Kolipaka Tharun**
 
 ---
+## 🔗 Live Dashboard
+View the interactive dashboard here:
+https://public.tableau.com/views/CarSalesDashboard_17260727205540/Dashboard1
 
 ## ⭐ Note
 This project is created for learning and portfolio purposes.
