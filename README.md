@@ -1,61 +1,108 @@
 # 🚗 Car Sales Dashboard (Tableau Project)
 
-![Car Sales Dashboard](dashboard.png)
-
 ## 📌 Overview
-This project is an interactive **Car Sales Dashboard** built using Tableau.  
-It helps analyze sales performance, trends, and key business insights in a simple and visual way.
+
+This project presents an interactive Car Sales Dashboard developed using Tableau to analyze and monitor sales performance.
+It transforms raw data into meaningful insights, helping understand trends, customer preferences, and regional performance.
 
 ---
 
-## 🎯 Objective
-The main goal of this project is to track and visualize important metrics like:
-- Total Sales
-- Average Car Price
-- Number of Cars Sold  
-- Sales Trends over time
+## ❓ Problem Statement
+
+Businesses often struggle to track sales performance and identify key trends due to scattered or unstructured data.
+This project aims to provide a centralized dashboard to monitor KPIs and support data-driven decision-making.
 
 ---
 
-## 🛠️ Tools Used
-- Tableau Public  
-- Microsoft Excel  
+## 🎯 Objectives
+
+* Track key performance indicators such as total sales, average price, and units sold
+* Analyze sales trends over time
+* Identify top-performing regions and product categories
+* Understand customer preferences based on car attributes
 
 ---
 
-## ✨ Key Features
-- 📊 Year-to-Date (YTD) total sales and growth  
-- 📈 Weekly sales trend analysis  
-- 🚘 Sales distribution by body style and color  
-- 🌍 Regional sales comparison  
-- 🏢 Company-wise sales performance
-- 📈 Sales increased by 23.59% YoY showing strong growth
-- 🚘 SUV category generated highest revenue
+## 🛠️ Tools & Technologies
+
+* Tableau Public
+* Microsoft Excel
 
 ---
 
-## 📂 Project Files
-- Tableau Packaged Workbook (`.twbx`)  
-- Dataset (Excel file)  
-- Dashboard Screenshot  
-- Problem Statement Document  
+## 📂 Dataset
+
+The dataset contains car sales information including:
+
+* Sales revenue
+* Car body type
+* Color
+* Region
+* Company/brand
+
+(Data was cleaned and prepared using Excel before visualization.)
+
+---
+
+## 📊 Key Insights
+
+* Identified Year-to-Date (YTD) sales growth and performance trends
+* Analyzed weekly sales patterns to detect peak sales periods
+* Found that certain body styles and colors have higher demand
+* Highlighted top-performing regions contributing maximum revenue
+* Compared company-wise sales performance to identify leading brands
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ---
 
 ## 🚀 How to Use
-1. Download the `.twbx` file  
-2. Open it in Tableau Public or Tableau Desktop  
-3. Explore the dashboard and interact with filters  
+
+1. Download the `.twbx` file from this repository
+2. Open it using Tableau Public or Tableau Desktop
+3. Interact with filters and visuals to explore insights
+
+---
+
+## 📁 Project Structure
+
+```
+car-sales-dashboard/
+│
+├── data/            # Excel dataset
+├── dashboard/       # Tableau workbook (.twbx)
+├── images/          # Dashboard screenshots
+├── README.md
+```
+
+---
+
+## 📈 Business Impact
+
+* Enabled quick identification of high-performing regions and categories
+* Improved understanding of sales trends and customer preferences
+* Supported better decision-making through interactive visual insights
+
+---
+
+## 💡 Future Improvements
+
+* Integrate real-time or live data sources
+* Add predictive analytics for sales forecasting
+* Expand dashboard with advanced filters and drill-down features
 
 ---
 
 ## 👤 Author
-**Kolipaka Tharun**
+
+**Tharun Kolipaka**
 
 ---
-## 🔗 Live Dashboard
-View the interactive dashboard here:
-https://public.tableau.com/views/CarSalesDashboard_17260727205540/Dashboard1
 
-## ⭐ Note
-This project is created for learning and portfolio purposes.
+## ⭐ Acknowledgment
+
+This project was created for learning and portfolio purposes to demonstrate data visualization and analytical skills using Tableau.
