@@ -56,7 +56,7 @@ Data cleaning and preprocessing were performed using Excel before building the d
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
